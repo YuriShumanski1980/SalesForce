@@ -1,4 +1,4 @@
-# Project exclude pathes
+# Project exclude paths
 /target/
 .idea
 HerokuAppHW6.iml
